@@ -5000,6 +5000,10 @@ a.navbar-item,
   color: orange;
 }
 
+.fa-laptop-house{
+  color: orange;
+}
+
 a.panel-block,
 label.panel-block {
   cursor: pointer; }
